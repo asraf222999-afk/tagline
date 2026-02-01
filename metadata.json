@@ -1,0 +1,7 @@
+{
+  "name": "BrandPulse AI - Tagline & Keyword Generator",
+  "description": "A professional AI-powered tool that generates trending taglines and SEO-optimized keywords from your images. Perfect for social media managers and marketers needing batch generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
